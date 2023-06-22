@@ -1,0 +1,1276 @@
+LATAM - PROGRAMAÇÃO POR CENTRO DE RECURSO
+21/06/2023
+Período:
+Geração:
+Rel. Prod.
+OP's
+Descrição de Produto
+Apr.
+Saí.
+Cód. Sap
+Fornec.
+408
+RECURSO:
+Gallus EM 410 - 2008
+Gallus EM
+Qtd.Prev.
+Faca
+Cilin.
+Prv.Ini.
+Acerto
+Formato
+Setup
+Sit.
+PCP2
+Hot-S
+Qtd Prev.
+Entrega
+Alm.
+Work Flow
+Pré
+Cli
+Col
+Des
+Cart
+N
+Roto
+Oper.
+Tempos Prv.
+( M )
+( MIL )
+Bula
+Mont.
+    171.710
+NEOLUBES - Rotulo Adesivo COD BARRA UNI 75x160mm
+1.219976/33
+       6.910,283
+M
+1F/1FR
+MIL
+GF897
+104
+Rep.
+     104,0
+5
+OK
+OK
+OK
+23:12
+OK
+X
+R
+OK
+ 0
+28/06
+120130326
+21/06/23 23:07
+001:46
+000:00
+002:33
+N
+>>
+3 x 2
+    171.667
+NEOLUBES - Contra-Rotulo Adesivo Rimula R4x 15w-40 20L
+1.219976/10
+       3.424,416
+M
+5F/1FR
+MIL
+GF715
+104
+Rep.
+      18,0
+5
+P
+OK
+E
+11:04
+T
+X
+R
+OK
+ 0
+28/06
+120130880
+22/06/23 09:36
+001:28
+000:00
+000:41
+N
+>>
+1 x 2
+    171.666
+NEOLUBES - Rotulo Adesivo Rimula R4x 15w-40 20L
+1.219976/10
+       3.424,416
+M
+5F/1FR
+MIL
+GF715
+104
+Rep.
+      18,0
+7
+P
+OK
+E
+11:04
+T
+X
+R
+OK
+ 0
+28/06
+120130877
+22/06/23 09:36
+001:28
+000:00
+000:41
+N
+>>
+1 x 2
+    171.887
+NEOLUBES - Contra-Rotulo Adesivo Hy-Gard John Deere 20L
+1.219976/63
+       7.291,744
+M
+4F/1FR
+MIL
+GF715
+104
+Rep.
+      74,0
+5
+P
+OK
+OK
+13:18
+T
+X
+R
+OK
+ 0
+28/06
+120130162
+22/06/23 11:53
+001:25
+000:00
+002:57
+N
+>>
+2 x 2
+    171.691
+SHELL - Rot Ad Shell WBF-100 SAE 80W 20L
+1.219976/22
+      12.615,020
+M
+4F/1FR
+MIL
+GF715
+104
+Rep.
+      60,0
+7
+P
+OK
+OK
+17:39
+T
+X
+R
+OK
+ 0
+28/06
+120127884
+22/06/23 16:47
+000:52
+000:00
+004:40
+N
+>>
+1 x 2
+    171.690
+SHELL - C-Rot Ad Shell WBF-100 SAE 80W 20L
+1.219976/22
+      12.615,020
+M
+4F/1FR
+MIL
+GF715
+104
+Rep.
+      60,0
+5
+P
+OK
+OK
+17:39
+T
+X
+R
+OK
+ 0
+28/06
+120127876
+22/06/23 16:47
+000:52
+000:00
+004:40
+N
+>>
+1 x 2
+    171.696
+NEOLUBES - Rotulo Adesivo Rimula R2 SAE-50 20L
+1.219976/26
+       6.551,132
+M
+5F/1FR
+MIL
+GF715
+104
+Rep.
+      28,0
+7
+P
+OK
+E
+05:51
+T
+X
+R
+OK
+ 0
+28/06
+120130892
+22/06/23 23:09
+001:01
+000:00
+002:25
+N
+>>
+1 x 2
+    171.697
+NEOLUBES - Contra-Rotulo Adesivo Rimula R2 SAE-50 20L
+1.219976/26
+       6.551,132
+M
+5F/1FR
+MIL
+GF715
+104
+Rep.
+      28,0
+5
+P
+OK
+E
+05:51
+T
+X
+R
+OK
+ 0
+28/06
+120130894
+22/06/23 23:09
+001:01
+000:00
+002:25
+N
+>>
+1 x 2
+    171.714
+SHELL - C-Rot Ad Rimula RT4 X Tripla Proteção 20L
+1.219976/35
+      11.266,388
+M
+5F/1FR
+MIL
+GF715
+104
+Rep.
+      52,0
+5
+P
+OK
+OK
+09:36
+T
+X
+R
+OK
+ 0
+28/06
+120127645
+23/06/23 08:43
+000:53
+000:00
+004:10
+N
+>>
+1 x 2
+    171.713
+SHELL - Rot Ad Rimula RT4 X Tripla P 15W40 20L 147X163mm
+1.219976/35
+      11.266,388
+M
+5F/1FR
+MIL
+GF715
+104
+Rep.
+      52,0
+7
+P
+OK
+OK
+09:36
+T
+X
+R
+OK
+ 0
+28/06
+120126372
+23/06/23 08:43
+000:53
+000:00
+004:10
+N
+>>
+1 x 2
+    171.720
+NEOLUBES - Rotulo Adesivo Rimula R3 Multi 15W-40 20L
+1.219976/38
+       8.510,640
+M
+5F/1FR
+MIL
+GF715
+104
+Rep.
+      40,0
+7
+P
+OK
+OK
+15:33
+T
+X
+R
+CA
+ 0
+28/06
+120130148
+23/06/23 14:30
+001:03
+000:00
+001:43
+N
+>>
+1 x 2
+    171.719
+NEOLUBES - Contra-Rotulo Adesivo Rimula R3 Multi 15W-40 20L
+1.219976/38
+       8.510,640
+M
+5F/1FR
+MIL
+GF715
+104
+Rep.
+      40,0
+5
+P
+OK
+OK
+15:33
+T
+X
+R
+CA
+ 0
+28/06
+120129988
+23/06/23 14:30
+001:03
+000:00
+001:43
+N
+>>
+1 x 2
+    171.839
+NEOLUBES - Rotulo Adesivo Hy-Gard John Deere 20L
+1.219976/18
+       7.741,744
+M
+6F/1FR
+MIL
+GF715
+104
+Rep.
+      74,0
+7
+P
+OK
+OK
+19:11
+A
+X
+R
+OK
+ 0
+28/06
+120130161
+23/06/23 17:35
+001:36
+000:00
+003:08
+N
+>>
+2 x 2
+    171.670
+NEOLUBES - Rotulo Adesivo John Deere Plus-50 20L
+1.219976/12
+      11.266,388
+M
+7F/1FR
+MIL
+GF715
+104
+Rep.
+      52,0
+7
+P
+OK
+OK
+06:07
+A
+X
+R
+OK
+ 0
+28/06
+120130215
+23/06/23 22:53
+001:33
+000:00
+004:10
+N
+>>
+1 x 2
+    171.671
+NEOLUBES - Contra-Rotulo Adesivo John Deere Plus-50 20L
+1.219976/12
+      10.994,684
+M
+7F/1FR
+MIL
+GF715
+104
+Rep.
+      52,0
+5
+P
+OK
+OK
+06:07
+T
+X
+R
+OK
+ 0
+28/06
+120131061
+23/06/23 22:53
+001:33
+000:00
+004:10
+N
+>>
+1 x 2
+    171.736
+NEOLUBES - Rotulo Adesivo Honda Blend 1L
+1.219976/54
+       9.008,295
+M
+5F/1FR
+MIL
+GF717
+107
+Rep.
+     156,0
+7
+P
+OK
+OK
+12:59
+A
+X
+R
+OK
+ 0
+28/06
+120131062
+26/06/23 11:02
+001:57
+000:00
+003:20
+N
+>>
+2 x 4
+    171.725
+NEOLUBES - Rotulo Adesivo Scania Oil Hydraulic Oil 1L
+1.219976/43
+       1.055,368
+M
+5F/1FR
+MIL
+GF717
+107
+Rep.
+       6,0
+7
+P
+OK
+OK
+18:12
+A
+X
+R
+OK
+ 0
+28/06
+120132290
+26/06/23 16:55
+001:17
+000:00
+000:25
+N
+>>
+2 x 4
+    171.731
+NEOLUBES - Rotulo Adesivo Mopar MaxPro SAE 0W-30 1L
+1.219976/49
+       4.026,159
+M
+5F/1FR
+MIL
+GF717
+107
+Rep.
+      66,0
+7
+P
+OK
+OK
+19:59
+A
+X
+R
+OK
+ 0
+28/06
+120130155
+26/06/23 18:42
+001:17
+000:00
+001:29
+N
+>>
+2 x 4
+    171.721
+NEOLUBES - Rotulo Adesivo MaxiPerformance SAE 0W-30 1L
+1.219976/39
+       3.134,510
+M
+7F/1FR
+MIL
+GF717
+107
+Rep.
+      36,0
+7
+P
+OK
+X
+05:00
+A
+X
+R
+OK
+ 0
+28/06
+120130153
+26/06/23 21:44
+001:35
+000:00
+001:09
+N
+>>
+2 x 4
+    171.723
+NEOLUBES - Rotulo Adesivo MaxiPerfomance SAE 5W40 1L
+1.219976/41
+      14.549,236
+M
+7F/1FR
+MIL
+GF717
+107
+Rep.
+     260,0
+7
+P
+OK
+X
+07:23
+A
+X
+R
+OK
+ 0
+28/06
+120130151
+27/06/23 06:22
+001:01
+000:00
+005:23
+N
+>>
+2 x 4
+    171.791
+PERFETTI - Rot Ad Tampa Mentos Pure Fresh Wintergreen 31x31mm
+1.220001/4
+       3.140,087
+M
+6F/1FR
+MIL
+GF197
+96
+Rep.
+     350,0
+5
+P
+OK
+X
+16:15
+X
+X
+R
+OK
+ 0
+29/06
+120119571
+27/06/23 13:43
+002:32
+000:00
+001:09
+N
+>>
+7 x 9
+    171.790
+PERFETTI - Rot Ad Tampa Mentos Pure Fresh Mint 31x31mm
+1.220001/3
+       3.773,399
+M
+6F/1FR
+MIL
+GF197
+96
+Rep.
+     460,0
+5
+P
+OK
+X
+18:43
+X
+X
+R
+OK
+ 0
+29/06
+120119572
+27/06/23 17:37
+001:06
+000:00
+001:32
+N
+>>
+7 x 9
+    171.963
+PERFETTI - Rot Ad Tampa Mentos Pure Fresh Mint 31x31mm
+1.220148/3
+       4.003,695
+M
+6F/1FR
+MIL
+GF197
+96
+Rep.
+     500,0
+5
+P
+OK
+X
+20:36
+X
+X
+R
+CA
+ 0
+04/07
+120119572
+27/06/23 20:31
+000:05
+000:00
+001:37
+N
+>>
+7 x 9
+    171.433
+LOREAL - Rot Ad Sh LP SE Abs Rep Gold 300ml INC 75x195 New
+1.219757/4
+       2.677,210
+M
+6F/1S
+MIL
+GF746
+129
+Nov.
+      21,0
+5
+P
+OK
+E
+06:50
+X
+X
+R
+OK
+ 0
+30/06
+120142657
+27/06/23 22:31
+002:38
+000:00
+000:59
+N
+>>
+3 x 2
+    171.440
+LOREAL - Rot Ad Sh LP SE Inforcer 300ml INCI 75x195
+1.219757/10
+       2.437,608
+M
+6F/1S
+MIL
+GF746
+129
+Nov.
+      18,0
+5
+P
+OK
+E
+08:54
+X
+X
+R
+OK
+ 0
+30/06
+120142822
+28/06/23 08:00
+000:54
+000:00
+000:54
+N
+>>
+3 x 2
+    171.432
+LOREAL - Rot Ad Sh LP SE Abs Repa Gold 1500ml INC 120x294
+1.219757/3
+       2.194,848
+M
+6F/1S
+MIL
+GF751B
+96
+Nov.
+       6,0
+5
+P
+OK
+OK
+11:26
+X
+X
+R
+OK
+ 0
+30/06
+120142656
+28/06/23 09:58
+001:28
+000:00
+000:48
+N
+>>
+2 x 1
+    171.442
+LOREAL - Rot Ad Sh LP SE Pro Longer 1500ml INCI 120x294
+1.219757/12
+       2.194,848
+M
+6F/1S
+MIL
+GF751B
+96
+Nov.
+       6,0
+5
+P
+OK
+E
+13:29
+X
+X
+R
+OK
+ 0
+30/06
+120142826
+28/06/23 12:23
+001:06
+000:00
+000:48
+N
+>>
+2 x 1
+    171.816
+LOREAL - Rot Ad Cd LP SE Abs Repi Gold 1500ml INCI 120x294
+1.219777/1
+         914,400
+M
+6F/1S
+MIL
+GF751B
+96
+Nov.
+       6,0
+5
+P
+OK
+E
+15:42
+X
+FIN
+R
+OK
+ 0
+30/06
+120143362
+28/06/23 14:26
+001:16
+000:00
+000:20
+N
+>>
+2 x 1
+    171.438
+LOREAL - Rot Ad Cd LP SE BRA Nutrioil 1500ml INCI 120x294
+1.219757/8
+       2.194,848
+M
+6F/1S
+MIL
+GF751B
+96
+Nov.
+       6,0
+5
+P
+OK
+E
+17:10
+X
+X
+R
+OK
+ 0
+30/06
+120142762
+28/06/23 16:06
+001:04
+000:00
+000:48
+N
+>>
+2 x 1
+    171.441
+LOREAL - Rot Ad Masc LP SE Pro Longer 500g INCI 33x293
+1.219757/11
+       1.552,939
+M
+5F/1FR
+MIL
+GF748
+96
+Nov.
+       6,0
+5
+P
+OK
+OK
+19:15
+X
+X
+R
+OK
+ 0
+30/06
+120142825
+28/06/23 18:07
+001:08
+000:00
+000:36
+N
+>>
+5 x 1
+    171.431
+LOREAL - Rot Ad Masc LP SE Abs Repair Gold 500 INC 33x293
+1.219757/2
+       2.462,310
+M
+5F/1FR
+MIL
+GF748
+96
+Nov.
+      15,0
+5
+P
+OK
+OK
+20:55
+X
+X
+R
+OK
+ 0
+30/06
+120142655
+28/06/23 19:58
+000:57
+000:00
+000:44
+N
+>>
+4 x 1
+    171.434
+LOREAL - Rot Ad Masc LP SE Blondifier Gloss 500g INC 33x293
+1.219757/5
+       1.838,232
+M
+5F/1FR
+MIL
+GF748
+96
+Nov.
+       6,0
+5
+P
+OK
+OK
+22:57
+X
+X
+R
+OK
+ 0
+30/06
+120142660
+28/06/23 21:48
+001:09
+000:00
+000:32
+N
+>>
+3 x 1
+    171.439
+LOREAL - Rot Ad Masc LP SE BR Inforcer 250g INCI 24x245
+1.219757/9
+       1.445,770
+M
+5F/1FR
+MIL
+GF747
+160
+Nov.
+      12,0
+5
+P
+OK
+E
+06:25
+X
+X
+R
+OK
+ 0
+30/06
+120142820
+29/06/23 05:16
+001:09
+000:00
+000:32
+N
+>>
+8 x 2
+    171.430
+LOREAL - Rot Ad Masc LP SE Absolut Rep Gold 250g INC 24x245
+1.219757/1
+       1.780,098
+M
+5F/1FR
+MIL
+GF747
+160
+Nov.
+      21,0
+5
+P
+OK
+E
+07:51
+X
+X
+R
+OK
+ 0
+30/06
+120142654
+29/06/23 07:04
+000:47
+000:00
+000:39
+N
+>>
+8 x 2
+    172.115
+BOTICARIO - Rot Ad Match Cd Oleosidade Control 280ml 134x50
+1.220258/1
+       2.087,488
+M
+3F/2FR
+MIL
+GF784A
+168
+Rep.
+      40,0
+5
+P
+OK
+X
+10:43
+X
+X
+R
+OK
+ 0
+05/07
+120131908
+29/06/23 08:37
+002:06
+000:00
+000:46
+N
+>>
+2 x 10
+    172.116
+BOTICARIO - C-Rot Ad Match Cd Oleosidade Control 280ml 134x50
+1.220258/2
+       1.766,152
+M
+2F
+MIL
+GF784A
+168
+Rep.
+      40,0
+7
+P
+OK
+X
+12:18
+X
+X
+R
+OK
+ 0
+05/07
+120131909
+29/06/23 11:37
+000:40
+000:00
+000:39
+N
+>>
+2 x 10
+    172.231
+BOTICARIO - C-Rot Ad Match Sh Nutriç Profunda 280ml 134x50
+1.220430/1
+       2.070,190
+M
+2F
+MIL
+GF784A
+168
+Rep.
+      50,0
+5
+P
+X
+X
+13:29
+X
+X
+R
+X
+ 0
+09/07
+120131839
+29/06/23 13:04
+000:25
+000:00
+000:46
+N
+>>
+2 x 10
+    171.953
+UNILEVER - Rot Ad Maionese Hellmanns Light 335g Sullivan
+1.220135/3
+       7.550,940
+M
+6F/1FR
+MIL
+GF101
+107
+Rep.
+     230,0
+7
+P
+OK
+X
+16:32
+X
+X
+R
+OK
+ 0
+06/07
+120130913
+29/06/23 14:24
+002:08
+000:00
+002:47
+N
+>>
+3 x 5
+    171.954
+UNILEVER - Rot Ad Hellmanns Maionese Chipotle 335g
+1.220135/4
+       4.017,800
+M
+7F/1FR
+MIL
+GF101
+107
+Rep.
+     100,0
+7
+P
+OK
+X
+21:28
+X
+X
+R
+CA
+ 0
+06/07
+120130519
+29/06/23 19:49
+001:39
+000:00
+001:29
+N
+>>
+3 x 5
+    171.955
+UNILEVER - C/ Rot Ad Hellmanns Maionese Chipotle 335g
+1.220135/5
+       1.828,427
+M
+4F
+MIL
+GF101
+107
+Rep.
+      42,0
+7
+P
+OK
+X
+06:02
+X
+X
+R
+CA
+ 0
+06/07
+120130525
+29/06/23 23:14
+001:06
+000:00
+000:40
+N
+>>
+3 x 5
+    171.952
+UNILEVER - C-Rotulo Ad Maionese Hellmanns Light 335g Sullivan
+1.220135/1
+       6.001,273
+M
+4F
+MIL
+GF101
+107
+Rep.
+     180,0
+7
+P
+OK
+X
+07:35
+X
+X
+R
+CA
+ 0
+06/07
+120130910
+30/06/23 06:50
+000:44
+000:00
+002:13
+N
+>>
+3 x 5
+MPOP800.GER - PCP/Ordens de Produção/Serviço - 21/06/2023 - 22:33
+Página:
+   1
+confidencial123

@@ -1,0 +1,30 @@
+    171.710                                         # 6 OP's
+NEOLUBES - Rotulo Adesivo COD BARRA UNI 75x160mm    # 2 Descrição
+1.219976/33                                         # 1 Apr. Rel. Prod.
+       6.910,283                                    # 12 Qtd. Prev. (M)
+M
+1F/1FR                                              # 7 Formato
+MIL
+GF897                                               # 15 Faca
+104                                                 # 17 Cilin.
+Rep.                                                # 20 Sit. ===>>> Verificar se depois dessa linha começa com 'Nº' é a coluna 18 Hot-S
+     104,0                                          # 13 Qtd Prev (MIL).
+5                                                   # 5 Saí.
+OK                                                  # 23 Alm.
+OK                                                  # 25 Pré
+OK                                                  # 27 Cli
+23:12
+OK                                                  # 22 Col
+X                                                   # 24 Des
+R                                                   # 3 Fornec.
+OK                                                  # 26 Cart
+ 0
+28/06                                               # 21 Entrega
+120130326                                           # 4 Cód. Sap ===>> Verificar se depois dessa linha começa com 'n°' é a coluna 19 Roto
+21/06/23 23:07                                      # 8 Prv. Ini
+001:46                                              # 9 Setup
+000:00                                              # 10 Acerto
+002:33                                              # 11 Oper.
+N                                                   # 14 Bula
+>>
+3 x 2                                               # 16 Mont

@@ -1,0 +1,19 @@
+[tool.poetry]
+name = "programacao_a4l"
+version = "0.1.0"
+description = ""
+authors = ["Everton de Souza <e.rodrigo@outlook.com>"]
+readme = "README.md"
+packages = [{include = "programacao_a4l"}]
+
+[tool.poetry.dependencies]
+python = "^3.11"
+pypdf = "^3.10.0"
+
+
+[tool.poetry.group.dev.dependencies]
+ipykernel = "^6.23.2"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

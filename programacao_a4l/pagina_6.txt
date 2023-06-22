@@ -1,0 +1,1221 @@
+LATAM - PROGRAMAÇÃO POR CENTRO DE RECURSO
+21/06/2023
+Período:
+Geração:
+Rel. Prod.
+OP's
+Descrição de Produto
+Apr.
+Saí.
+Cód. Sap
+Fornec.
+    171.794
+UNILEVER - Rot Ad Co Clear Hidratação Intensa 200ml F
+1.220013/1
+       5.954,531
+M
+2F/3O/1R/1S/1FR
+MIL
+NO2846A
+23
+Rep.
+     190,0
+5
+P
+OK
+E
+12:42
+X
+X
+R
+CA
+ 0
+30/06
+120128124
+n°175
+03/07/23 10:47
+001:55
+000:00
+001:31
+N
+>>
+2 x 13
+    171.793
+UNILEVER - Rot Ad Co Clear Hidratação Intensa 200ml F
+1.220003/2
+       2.052,746
+M
+2F/3O/1R/1S/1FR
+MIL
+NO2846A
+23
+Rep.
+      39,0
+5
+P
+OK
+E
+15:28
+X
+X
+R
+OK
+ 0
+30/06
+120128124
+n°175
+03/07/23 14:53
+000:34
+000:00
+000:31
+N
+>>
+2 x 13
+    171.230
+UNILEVER - Rot Ad Sh Clear Hidratação Intensa 200ml F
+1.219733/6
+       9.366,935
+M
+4O/2F/1R/1S/1FR
+MIL
+NO2736B
+22
+Rep.
+     322,0
+5
+P
+OK
+OK
+19:17
+T
+X
+R
+OK
+ 0
+23/06
+120128129
+n°176
+03/07/23 16:14
+003:03
+000:00
+002:24
+N
+>>
+2 x 12
+    172.058
+BEIERSDORF - Rot Ad Unleashed Facial Tono Natural 100ml
+1.220217/1
+       1.219,300
+M
+3O/1F/1FR
+MIL
+NO2835
+24
+Rep.
+      33,0
+1
+P
+OK
+X
+08:26
+X
+X
+R
+OK
+ 0
+28/06
+120136967
+04/07/23 04:50
+003:35
+000:00
+000:18
+N
+>>
+4 x 10
+    171.633
+NIVEA - Rot Ad Nivea TOP 84311 5em1 100ml 58x58 Unleashed
+1.219969/46
+       4.611,876
+M
+3O/1F/1FR
+MIL
+NO2835
+24
+Rep.
+     230,0
+1
+P
+OK
+X
+10:30
+T
+X
+R
+OK
+ 0
+26/06
+120129327
+04/07/23 08:53
+001:36
+000:00
+001:10
+N
+>>
+4 x 10
+    172.276
+NIVEA - Rotulo Adesivo Nivea Top Facial Anti Age 80146 Unl
+1.220511/1
+       7.367,268
+M
+1F/3O/1FR
+MIL
+NO2835
+24
+Rep.
+     390,0
+1
+P
+X
+X
+13:40
+X
+X
+R
+X
+ 0
+15/07
+120130447
+04/07/23 12:11
+001:28
+000:00
+001:53
+N
+>>
+4 x 10
+    172.277
+NIVEA - Rotulo Adesivo Nivea Top Facial Anti Age 80146 Unl
+1.220511/2
+       7.195,056
+M
+1F/3O/1FR
+MIL
+NO2835
+24
+Rep.
+     380,0
+1
+P
+X
+X
+16:27
+X
+X
+R
+X
+ 0
+15/07
+120130447
+04/07/23 16:22
+000:05
+000:00
+001:50
+N
+>>
+4 x 10
+    172.117
+PERNOD - Rot Ad Orloff 1L 3 x 2019 144x51mm
+1.220267/1
+      66.798,422
+M
+1S/1FR
+MIL
+NO2824
+24
+Rep.
+   2.200,0
+7
+P
+X
+X
+20:51
+X
+X
+R
+X
+ 0
+26/07
+120128193
+04/07/23 19:05
+001:46
+000:00
+027:09
+N
+>>
+2 x 11
+     197.840,932
+TOTAL DO RECURSO:
+          3.585,00
+         39
+431
+Total Saida Alm.:
+       0,000
+      57.430,2
+M2
+              0,00
+          5.013,00
+432
+RECURSO:
+Nilpeter MO 04 - 2012
+NilpeterMO
+Qtd.Prev.
+Faca
+Cilin.
+Prv.Ini.
+Acerto
+Formato
+Setup
+Sit.
+PCP2
+Hot-S
+Qtd Prev.
+Entrega
+Alm.
+Work Flow
+Pré
+Cli
+Col
+Des
+Cart
+N
+Roto
+Oper.
+Tempos Prv.
+( M )
+( MIL )
+Bula
+Mont.
+    171.626
+NIVEA - Rot Ad Roll On Silver Protect 83778 Male Atacama
+1.219969/39
+       3.585,123
+M
+3O/1F/1FR
+MIL
+NO2203C
+23
+Rep.
+     208,0
+5
+P
+OK
+OK
+07:27
+OK
+X
+R
+OK
+ 0
+26/06
+120122011
+22/06/23 05:53
+001:33
+000:00
+000:55
+N
+>>
+4 x 12
+    171.604
+NIVEA - Rot Ad Roll On Pure Sens 81638 Fem Atacama
+1.219969/17
+       6.442,475
+M
+3O/2F/1FR
+MIL
+NO2203B
+23
+Rep.
+     403,0
+5
+OK
+OK
+OK
+11:02
+OK
+X
+R
+OK
+ 0
+26/06
+120121199
+22/06/23 08:52
+002:10
+000:00
+001:39
+N
+>>
+4 x 12
+    171.608
+NIVEA - Rotulo Adesivo Roll On Tono Natural 83700 Feminino
+1.219969/21
+       1.727,816
+M
+2F/4O/1FR
+MIL
+NO2203B
+23
+Rep.
+      52,0
+5
+OK
+OK
+E
+15:33
+OK
+X
+R
+OK
+ 0
+26/06
+120130306
+22/06/23 13:35
+001:58
+000:00
+000:26
+N
+>>
+4 x 12
+    171.615
+NIVEA - Rotulo Adesivo Roll On Tono Natural 83747 Fem
+1.219969/28
+       3.095,474
+M
+2F/4O/1FR
+MIL
+NO2203B
+23
+Rep.
+     156,0
+5
+OK
+OK
+OK
+17:52
+OK
+X
+R
+OK
+ 0
+26/06
+120130370
+22/06/23 16:13
+001:38
+000:00
+000:47
+N
+>>
+4 x 12
+    172.001
+NATURA - Rot Ad Lumina Shampoo Anticaspa 300ml
+1.219849/1
+       3.715,813
+M
+2F/3O/1H/2S/1FR
+MIL
+NO2673
+25
+Nov.
+Nº340
+      30,0
+5
+P
+OK
+E
+22:50
+A
+X
+R
+OK
+ 0
+28/06
+120143294
+22/06/23 19:05
+003:45
+000:00
+001:22
+N
+>>
+2 x 4
+    171.822
+NATURA - Rot Ad Lumina Shampoo Cab Danificados 300ml Latam
+1.220024/3
+       3.715,813
+M
+2F/3O/1H/2S/1FR
+MIL
+NO2673
+25
+Rep.
+Nº340
+      30,0
+5
+P
+OK
+E
+08:20
+A
+X
+R
+OK
+ 0
+10/07
+120127036
+23/06/23 06:39
+001:41
+000:00
+001:01
+N
+>>
+2 x 4
+    171.881
+NATURA - Rot Ad Lumina Condici Cabelos Cacheados 300m Latam
+1.220024/7
+       4.612,750
+M
+2F/3O/1H/2S/1FR
+MIL
+NO2673
+25
+Rep.
+Nº340
+      40,0
+5
+P
+OK
+E
+11:36
+A
+X
+R
+OK
+ 0
+10/07
+120129502
+23/06/23 09:55
+001:41
+000:00
+001:42
+N
+>>
+2 x 4
+    171.581
+BOTICARIO - Rót Ad Cuide-se Bem Splash Boa Noite 200ml 108x139
+1.219947/1
+      24.230,110
+M
+3F/3O/1FR/1S
+MIL
+NO2764
+23
+Rep.
+     280,0
+7
+P
+OK
+X
+18:06
+X
+FIN
+R
+OK
+ 0
+30/06
+120125956
+23/06/23 14:14
+003:51
+000:00
+009:50
+N
+>>
+2 x 4
+    171.581
+BOTICARIO - Rót Ad Cuide-se Bem Splash Boa Noite 200ml 108x139
+1.219947/1
+      24.230,110
+M
+3F/3O/1FR/1S
+MIL
+NO2764
+23
+Rep.
+     280,0
+7
+P
+OK
+X
+15:36
+X
+FIN
+R
+OK
+ 0
+30/06
+120125956
+26/06/23 14:56
+000:40
+000:00
+017:33
+N
+>>
+2 x 4
+27/06/23
+27/06/23
+00:01
+Parada programada:
+De:
+Até:
+CR: 432 - Aprovação com foto cliente P&G.
+    172.134
+BOTICARIO - C-Rot Ad Cuide-se Bem Loç Hidr Pesseg 400ml 95x65
+1.220287/1
+       2.929,498
+M
+3O/1FR/1S
+MIL
+NO2797
+22
+Rep.
+      58,0
+5
+P
+OK
+X
+10:09
+X
+X
+R
+OK
+ 0
+10/07
+120128208
+28/06/23 09:55
+000:14
+000:00
+001:11
+N
+>>
+2 x 8
+    172.134
+BOTICARIO - C-Rot Ad Cuide-se Bem Loç Hidr Pesseg 400ml 95x65
+1.220287/1
+       2.929,498
+M
+3O/1FR/1S
+MIL
+NO2797
+22
+Rep.
+      58,0
+5
+P
+OK
+X
+06:40
+X
+X
+R
+OK
+ 0
+10/07
+120128208
+28/06/23 09:55
+000:41
+000:00
+002:07
+N
+>>
+2 x 8
+    171.328
+P&G - Rot Ad Herbal Essence Oil Pequi 95ml
+1.219558/1
+       3.765,864
+M
+7O/2F/1FR/1S
+MIL
+NO2693
+24
+Apr.
+      48,0
+5
+P
+OK
+OK
+16:08
+T
+FIN
+R
+OK
+ 0
+30/05
+120143293
+28/06/23 11:59
+004:08
+000:00
+000:57
+N
+>>
+3 x 5
+    172.334
+NATURA - Rot Ad Lumina Shampoo Cabelos Secos 300ml Latam
+1.220556/1
+       5.509,688
+M
+3O/2F/1H/2S/1FR
+MIL
+NO2673
+25
+Alt.
+Nº340
+      50,0
+5
+P
+X
+X
+22:10
+X
+X
+R
+X
+ 0
+03/07
+120128968
+28/06/23 17:38
+004:32
+000:00
+002:02
+N
+>>
+2 x 4
+    172.288
+NATURA - Rot Ad Lumina Shampoo Anticaspa 300ml
+1.220482/5
+       3.715,813
+M
+3O/2F/1H/2S/1FR
+MIL
+NO2673
+25
+Rep.
+Nº340
+      30,0
+5
+P
+X
+X
+09:39
+X
+X
+R
+X
+ 0
+03/07
+120126177
+29/06/23 06:59
+002:40
+000:00
+001:01
+N
+>>
+2 x 4
+    172.287
+NATURA - Rot Ad Lumina CPP Cabelos Cacheados 300m Latam
+1.220482/7
+       4.612,750
+M
+3O/2F/1H/1FR/2S
+MIL
+NO2673
+25
+Rep.
+Nº340
+      40,0
+7
+P
+X
+X
+13:03
+X
+X
+R
+X
+ 0
+10/07
+120129500
+29/06/23 11:14
+001:49
+000:00
+001:16
+N
+>>
+2 x 4
+    172.303
+NATURA - Rot Ad Lumina Condicionador Cabelos Oleosos 300ml
+1.220484/1
+       3.863,438
+M
+2F/3O/1H/2S/1FR
+MIL
+NO2673
+25
+Nov.
+Nº340
+      30,0
+5
+P
+X
+X
+16:50
+X
+X
+R
+X
+ 0
+17/07
+120143113
+29/06/23 15:01
+001:49
+000:00
+001:25
+N
+>>
+2 x 4
+04/07/23
+04/07/23
+00:01
+Parada programada:
+De:
+Até:
+CR: 432 - Aprovação com foto cliente Boticár
+    172.148
+BOTICARIO - Rót Ad Cuide-se Bem Splash Beijinho 200ml 108x139
+1.220035/1
+       8.106,533
+M
+2F/3O/1FR/1S
+MIL
+NO2764A
+23
+Apr.
+      84,0
+7
+P
+E
+X
+07:31
+X
+PRE
+R
+X
+ 0
+06/07
+120143340
+04/07/23 04:15
+003:16
+000:00
+002:04
+N
+>>
+2 x 4
+    172.148
+BOTICARIO - Rót Ad Cuide-se Bem Splash Beijinho 200ml 108x139
+1.220035/1
+       8.106,533
+M
+2F/3O/1FR/1S
+MIL
+NO2764A
+23
+Apr.
+      84,0
+7
+P
+E
+X
+11:18
+X
+PRE
+R
+X
+ 0
+06/07
+120143340
+04/07/23 10:43
+000:35
+000:00
+002:04
+N
+>>
+2 x 4
+    172.149
+BOTICARIO - Rót Ad Cuide-se Bem Splash Boa Noite 200ml 108x139
+1.220035/2
+      11.077,190
+M
+3O/2F/1FR/1S
+MIL
+NO2764A
+23
+Apr.
+     120,0
+7
+P
+E
+X
+15:53
+X
+PRE
+R
+X
+ 0
+06/07
+120143341
+04/07/23 14:30
+001:23
+000:00
+002:50
+N
+>>
+2 x 4
+    172.149
+BOTICARIO - Rót Ad Cuide-se Bem Splash Boa Noite 200ml 108x139
+1.220035/2
+      11.077,190
+M
+3O/2F/1FR/1S
+MIL
+NO2764A
+23
+Apr.
+     120,0
+7
+P
+E
+X
+20:51
+X
+PRE
+R
+X
+ 0
+06/07
+120143341
+04/07/23 20:16
+000:35
+000:00
+002:50
+N
+>>
+2 x 4
+    172.150
+BOTICARIO - Rót Ad Cuide-se Bem Splash Deleite 200ml 108x139
+1.220035/3
+       7.116,314
+M
+3O/2F/1FR/1S
+MIL
+NO2764A
+23
+Apr.
+      72,0
+7
+P
+X
+X
+08:44
+X
+VRO
+R
+X
+ 0
+06/07
+120143342
+05/07/23 07:21
+001:23
+000:00
+001:49
+N
+>>
+2 x 4
+    172.150
+BOTICARIO - Rót Ad Cuide-se Bem Splash Deleite 200ml 108x139
+1.220035/3
+       7.116,314
+M
+3O/2F/1FR/1S
+MIL
+NO2764A
+23
+Apr.
+      72,0
+7
+P
+X
+X
+12:07
+X
+VRO
+R
+X
+ 0
+06/07
+120143342
+05/07/23 11:32
+000:35
+000:00
+001:49
+N
+>>
+2 x 4
+    172.151
+BOTICARIO - Rót Ad Cuide-se Bem Splash Nuvem 200ml 108x139
+1.220035/4
+       7.116,314
+M
+3O/2F/1FR/1S
+MIL
+NO2764A
+23
+Apr.
+      72,0
+7
+P
+X
+X
+16:18
+X
+VRO
+R
+X
+ 0
+06/07
+120143343
+05/07/23 14:55
+001:23
+000:00
+001:49
+N
+>>
+2 x 4
+    172.151
+BOTICARIO - Rót Ad Cuide-se Bem Splash Nuvem 200ml 108x139
+1.220035/4
+       7.116,314
+M
+3O/2F/1FR/1S
+MIL
+NO2764A
+23
+Apr.
+      72,0
+7
+P
+X
+X
+19:41
+X
+VRO
+R
+X
+ 0
+06/07
+120143343
+05/07/23 19:06
+000:35
+000:00
+001:49
+N
+>>
+2 x 4
+    172.309
+BOTICARIO - Rót Ad Cuide-se Bem Splash Rosa Alg. 200ml 108x139
+1.220295/1
+       6.126,095
+M
+2F/2O/1FR/1S
+MIL
+NO2764A
+23
+Apr.
+      60,0
+7
+P
+X
+X
+05:47
+X
+VRO
+R
+X
+ 0
+04/07
+120143344
+06/07/23 04:37
+001:09
+000:00
+001:34
+N
+>>
+2 x 4
+    172.309
+BOTICARIO - Rót Ad Cuide-se Bem Splash Rosa Alg. 200ml 108x139
+1.220295/1
+       6.126,095
+M
+2F/2O/1FR/1S
+MIL
+NO2764A
+23
+Apr.
+      60,0
+7
+P
+X
+X
+08:42
+X
+VRO
+R
+X
+ 0
+04/07
+120143344
+06/07/23 08:12
+000:30
+000:00
+001:34
+N
+>>
+2 x 4
+    172.312
+BOTICARIO - Rót Ad Cuide-se Bem Splash Pessegura 200ml 108x139
+1.220295/2
+       6.126,095
+M
+2F/3O/1FR/1S
+MIL
+NO2764A
+23
+Apr.
+      60,0
+7
+P
+X
+X
+12:30
+X
+VRO
+R
+X
+ 0
+04/07
+120143520
+06/07/23 11:07
+001:23
+000:00
+001:34
+N
+>>
+2 x 4
+    172.312
+BOTICARIO - Rót Ad Cuide-se Bem Splash Pessegura 200ml 108x139
+1.220295/2
+       6.126,095
+M
+2F/3O/1FR/1S
+MIL
+NO2764A
+23
+Apr.
+      60,0
+7
+P
+X
+X
+15:29
+X
+VRO
+R
+X
+ 0
+04/07
+120143520
+06/07/23 14:54
+000:35
+000:00
+001:34
+N
+>>
+2 x 4
+    172.310
+BOTICARIO - Rót Ad Cuide-se Bem Splash Show Ban. 200ml 108x139
+1.220295/3
+       5.135,876
+M
+2F/3O/1FR/1S
+MIL
+NO2764A
+23
+Apr.
+      48,0
+7
+P
+X
+X
+19:17
+X
+VRO
+R
+X
+ 0
+04/07
+120143345
+06/07/23 17:54
+001:23
+000:00
+002:05
+N
+>>
+2 x 4
+    172.310
+BOTICARIO - Rót Ad Cuide-se Bem Splash Show Ban. 200ml 108x139
+1.220295/3
+       5.135,876
+M
+2F/3O/1FR/1S
+MIL
+NO2764A
+23
+Apr.
+      48,0
+7
+P
+X
+X
+05:13
+X
+VRO
+R
+X
+ 0
+04/07
+120143345
+07/07/23 04:38
+000:35
+000:00
+003:43
+N
+>>
+2 x 4
+MPOP800.GER - PCP/Ordens de Produção/Serviço - 21/06/2023 - 22:33
+Página:
+   6
+confidencial123

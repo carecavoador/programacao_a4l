@@ -1,0 +1,1150 @@
+LATAM - PROGRAMAÇÃO POR CENTRO DE RECURSO
+21/06/2023
+Período:
+Geração:
+Rel. Prod.
+OP's
+Descrição de Produto
+Apr.
+Saí.
+Cód. Sap
+Fornec.
+    172.174
+UNILEVER - C-Rot Ad CP Tresemme Anti Frizz 200ml
+1.220335/1
+       1.315,620
+M
+4F/1S/1FR
+MIL
+GF678A
+112
+Rep.
+      20,0
+7
+P
+OK
+X
+11:48
+X
+X
+R
+OK
+ 0
+10/07
+120126335
+30/06/23 10:11
+001:37
+000:00
+000:29
+N
+>>
+2 x 8
+    172.272
+UNILEVER - Contra-Rotulo Adesivo Hellmanns Supreme 104x68 335
+1.220507/1
+      12.349,987
+M
+4F/1FR
+MIL
+GF848
+118
+Rep.
+     400,0
+7
+P
+X
+X
+14:18
+X
+X
+R
+X
+ 0
+14/07
+120130932
+30/06/23 12:23
+001:55
+000:00
+004:34
+N
+>>
+3 x 5
+    172.254
+NEOLUBES - Rotulo Adesivo Honda Blend 1L
+1.220480/19
+       7.189,073
+M
+5F/1FR
+MIL
+GF717
+107
+Rep.
+     120,0
+7
+P
+X
+X
+22:01
+X
+X
+R
+X
+ 0
+17/07
+120131062
+30/06/23 19:40
+002:21
+000:00
+002:39
+N
+>>
+2 x 4
+    172.251
+NEOLUBES - Rotulo Adesivo Maxi Performance API SN 5W-40 1L
+1.220480/10
+       5.376,688
+M
+7F/1FR
+MIL
+GF717
+107
+Rep.
+      80,0
+7
+P
+X
+X
+07:33
+X
+X
+R
+X
+ 0
+17/07
+120130217
+03/07/23 05:58
+001:35
+000:00
+001:59
+N
+>>
+2 x 4
+    172.245
+NEOLUBES - Rotulo Adesivo MaxiPerformance SAE 0W-30 1L
+1.220480/14
+       4.663,268
+M
+7F/1FR
+MIL
+GF717
+107
+Rep.
+      66,0
+7
+P
+X
+X
+10:55
+X
+X
+R
+X
+ 0
+17/07
+120130153
+03/07/23 09:54
+001:01
+000:00
+001:43
+N
+>>
+2 x 4
+    172.247
+NEOLUBES - Rotulo Adesivo Mopar MaxPro SAE 0W-30 1L
+1.220480/12
+       3.139,479
+M
+5F/1FR
+MIL
+GF717
+107
+Rep.
+      48,0
+7
+P
+X
+X
+14:22
+X
+X
+R
+X
+ 0
+17/07
+120130155
+03/07/23 12:57
+001:25
+000:00
+001:09
+N
+>>
+2 x 4
+    172.255
+NEOLUBES - Rotulo Adesivo Mopar Maxpro 5W-30 1L
+1.220480/16
+       3.435,039
+M
+5F/1FR
+MIL
+GF717
+107
+Rep.
+      54,0
+7
+P
+X
+X
+17:01
+X
+X
+R
+X
+ 0
+17/07
+120131299
+03/07/23 15:44
+001:17
+000:00
+001:16
+N
+>>
+2 x 4
+    172.256
+NEOLUBES - Contra-Rotulo Adesivo Mopar Maxpro 5W-30 1L
+1.220480/17
+       3.768,880
+M
+2F/1FR
+MIL
+GF716
+96
+Rep.
+      54,0
+5
+P
+X
+X
+19:36
+X
+X
+R
+X
+ 0
+17/07
+120131300
+03/07/23 18:30
+001:05
+000:00
+001:23
+N
+>>
+2 x 4
+    172.246
+NEOLUBES - Contra-Rotulo Adesivo MaxiPerformance SAE 0W-30 1L
+1.220480/15
+       4.117,374
+M
+5F/1FR
+MIL
+GF716
+96
+Rep.
+      66,0
+5
+P
+X
+X
+04:22
+X
+X
+R
+X
+ 0
+17/07
+120130154
+03/07/23 21:15
+000:59
+000:00
+001:31
+N
+>>
+2 x 4
+    172.249
+NEOLUBES - Contra-Rotulo Adesivo Maxi Perfomance 5w40 1L
+1.220480/11
+       4.480,086
+M
+5F/1FR
+MIL
+GF716
+96
+Rep.
+      74,0
+5
+P
+X
+X
+07:02
+X
+X
+R
+X
+ 0
+17/07
+120130186
+04/07/23 06:09
+000:53
+000:00
+001:39
+N
+>>
+2 x 4
+    172.250
+NEOLUBES - Contra-Rotulo Adesivo Honda Blend 1L
+1.220480/18
+       6.565,680
+M
+5F/1FR
+MIL
+GF716
+96
+Rep.
+     120,0
+5
+P
+X
+X
+10:11
+X
+X
+R
+X
+ 0
+17/07
+120130189
+04/07/23 09:00
+001:11
+000:00
+002:25
+N
+>>
+2 x 4
+    171.352
+GRANADO - Rot Ad Gra Hidratante Lavanda 300ml 190x86mm
+1.219752/16
+       1.846,735
+M
+7F
+MIL
+GF642
+123
+Rep.
+       7,0
+7
+P
+OK
+OK
+15:20
+X
+X
+R
+OK
+ 0
+07/08
+120130686
+04/07/23 13:02
+002:18
+000:00
+000:41
+N
+>>
+3 x 2
+10/07/23
+10/07/23
+00:01
+Parada programada:
+De:
+Até:
+CR: 408 - Aprovação com o cliente Boticário.
+    170.566
+BOTICARIO - Rot Ad Match Sh Ciencia Das Curvas 300ml 134x50
+1.218899/1
+      16.937,344
+M
+3F/2FR
+MIL
+GF784A
+168
+Apr.
+     520,0
+7
+P
+OK
+OK
+06:18
+X
+FIN
+R
+OK
+ 0
+10/07
+120142918
+10/07/23 04:08
+002:10
+000:00
+006:16
+N
+>>
+2 x 10
+    170.567
+BOTICARIO - Rot Ad Match Cd Ciencia Das Curvas 300ml 134x50
+1.218899/2
+      16.937,344
+M
+3F/2FR
+MIL
+GF784A
+168
+Apr.
+     520,0
+7
+P
+OK
+OK
+14:20
+X
+FIN
+R
+OK
+ 0
+10/07
+120142919
+10/07/23 13:40
+000:40
+000:00
+006:16
+N
+>>
+2 x 10
+    170.568
+BOTICARIO - C-Rot Ad Match Sh Ciencias Das Curvas 300ml 134x50
+1.218899/3
+      16.359,976
+M
+2F
+MIL
+GF784A
+168
+Apr.
+     520,0
+5
+P
+OK
+E
+04:38
+X
+FIN
+R
+OK
+ 0
+10/07
+120142920
+10/07/23 21:43
+000:46
+000:00
+006:03
+N
+>>
+2 x 10
+    170.569
+BOTICARIO - C-Rot Ad Match Cd Ciencias Das Curvas 300ml 134x50
+1.218899/4
+      16.359,976
+M
+2F
+MIL
+GF784A
+168
+Apr.
+     520,0
+5
+P
+OK
+E
+12:04
+X
+FIN
+R
+OK
+ 0
+10/07
+120142921
+11/07/23 11:45
+000:18
+000:00
+006:03
+N
+>>
+2 x 10
+     290.126,432
+TOTAL DO RECURSO:
+          6.337,00
+         57
+408
+Total Saida Alm.:
+       0,000
+      85.991,2
+M2
+              0,00
+          3.982,00
+409
+RECURSO:
+Gallus EM 410 - 2008
+Gallus EM
+Qtd.Prev.
+Faca
+Cilin.
+Prv.Ini.
+Acerto
+Formato
+Setup
+Sit.
+PCP2
+Hot-S
+Qtd Prev.
+Entrega
+Alm.
+Work Flow
+Pré
+Cli
+Col
+Des
+Cart
+N
+Roto
+Oper.
+Tempos Prv.
+( M )
+( MIL )
+Bula
+Mont.
+    171.843
+NATURA - Rot Ad Fragrância Naturé Col Alegria no Parque P3
+1.219891/13
+      25.863,090
+M
+4F
+MIL
+GF253
+136
+Alt.
+   2.832,0
+3
+OK
+OK
+OK
+14:44
+OK
+X
+R
+OK
+ 0
+16/06
+120123417
+21/06/23 14:39
+000:38
+000:00
+009:34
+N
+>>
+6 x 9
+    171.898
+NATURA - Rot Ad Fragrância Ekos Frescor de Tukumã Latam
+1.220060/1
+       1.789,649
+M
+4F
+MIL
+GF253
+136
+Rep.
+     144,0
+3
+OK
+OK
+OK
+07:43
+OK
+X
+R
+OK
+ 0
+03/07
+120134874
+22/06/23 06:34
+001:08
+000:00
+000:39
+N
+>>
+6 x 9
+    171.844
+NATURA - Rot Ad Fragrância Ekos Hidratante Tukumã P1
+1.219891/12
+      25.863,090
+M
+4F
+MIL
+GF253
+136
+Alt.
+   2.832,0
+1
+OK
+OK
+OK
+09:32
+OK
+X
+R
+OK
+ 0
+16/06
+120124207
+22/06/23 08:23
+001:08
+000:00
+009:34
+N
+>>
+6 x 9
+    171.812
+AVON - Rot Ad Fragrância Far Away Splendoria AC179819
+1.219960/1
+       1.990,036
+M
+4F
+MIL
+GF864
+118
+Nov.
+     120,0
+7
+P
+OK
+OK
+20:34
+OK
+X
+R
+OK
+ 0
+26/06
+120143292
+22/06/23 19:07
+001:26
+000:00
+000:44
+N
+>>
+5 x 7
+    170.211
+AVON - Rot Ad Fragrância Musk Urban Jungle UAM00070/00
+1.218959/1
+         508,241
+M
+4F
+MIL
+GF555
+146
+Apr.
+       1,0
+3
+P
+OK
+OK
+22:49
+T
+X
+R
+OK
+ 0
+05/06
+121601392
+22/06/23 21:18
+001:30
+000:00
+000:11
+N
+>>
+7 x 9
+23/06/23
+23/06/23
+00:01
+Parada programada:
+De:
+Até:
+CR: 409 - Aprovação com foto cliente Natura.
+    170.212
+AVON - Rot Ad Fragrância Imari Naturelle LAM03908/00
+1.218959/2
+         508,241
+M
+4F
+MIL
+GF555
+146
+Apr.
+       1,0
+3
+P
+OK
+OK
+05:20
+T
+X
+R
+OK
+ 0
+05/06
+121601393
+22/06/23 23:00
+000:38
+000:00
+000:11
+N
+>>
+7 x 9
+    170.655
+AVON - Rot Ad Fragrância Full Speed Synapse 6184070
+1.219153/1
+         508,241
+M
+4F
+MIL
+GF555
+146
+Apr.
+       1,0
+3
+P
+OK
+OK
+06:11
+T
+X
+R
+OK
+ 0
+05/06
+121601394
+23/06/23 05:32
+000:38
+000:00
+000:11
+N
+>>
+7 x 9
+    171.818
+AVON - Rot Ad Fragrância TTA Everlasting Devo 614200 046B
+1.219900/1
+         508,241
+M
+4F
+MIL
+GF555
+146
+Apr.
+       1,0
+3
+P
+OK
+E
+07:01
+T
+FIN
+R
+OK
+ 0
+19/06
+121601395
+23/06/23 06:22
+000:38
+000:00
+000:11
+N
+>>
+7 x 9
+    171.944
+NATURA - Flowpack Ekos Sab Barra Castanha 25g 135x97,631mm
+1.220117/2
+      20.289,184
+M
+4F
+MIL
+123
+Rep.
+     172,3
+5
+P
+OK
+E
+09:02
+OK
+X
+R
+OK
+ 0
+26/06
+120500366
+23/06/23 07:13
+001:48
+000:00
+003:54
+N
+>>
+    171.557
+NATURA - Flowpack TBS Sakura 100g 182x136,53
+1.219324/1
+       3.409,372
+M
+7F
+MIL
+129
+Apr.
+      29,4
+5
+P
+OK
+OK
+14:54
+A
+X
+R
+OK
+ 0
+12/06
+120500455
+23/06/23 12:56
+001:58
+000:00
+001:23
+N
+>>
+    172.109
+PLASTEK - Rot Ad Chocoleite ao Leite M&M Tubo 30g V3
+1.220200/7
+     114.803,600
+M
+7F
+MIL
+FI1223
+118
+Nov.
+   4.000,0
+3
+P
+OK
+OK
+19:45
+A
+X
+R
+OK
+ 0
+30/06
+120143712
+23/06/23 16:17
+003:28
+000:00
+042:31
+N
+>>
+4 x 4
+    171.472
+JOFUND - Rot Ad Fremax Disco de Freio 60x482,60mm
+1.219709/1
+      58.850,017
+M
+2F/1FR
+MIL
+152
+Alt.
+     621,6
+5
+P
+E
+X
+09:21
+X
+PRE
+R
+X
+ 0
+29/06
+120119584
+28/06/23 07:19
+002:01
+000:00
+024:37
+N
+>>
+    171.241
+JOFUND - Rot Ad Napa Fleet 60x375mm
+1.219738/2
+      16.050,012
+M
+6F/1FR
+MIL
+118
+Rep.
+     133,5
+5
+P
+OK
+E
+17:03
+A
+X
+R
+OK
+ 0
+30/06
+120115452
+29/06/23 15:39
+001:24
+000:00
+006:31
+N
+>>
+    172.154
+JOFUND - Rot Ad Fremax Coated Usa 60x481mm
+1.220262/1
+      12.199,947
+M
+4F/1FR
+MIL
+152
+Alt.
+      62,2
+5
+P
+X
+X
+06:32
+X
+X
+R
+X
+ 0
+08/07
+120119233
+30/06/23 05:16
+001:16
+000:00
+004:31
+N
+>>
+    172.270
+NATURA - Flowpack Tododia Noz Pecã 215x116mm
+1.220482/10
+       6.124,283
+M
+7F
+MIL
+146
+Rep.
+      34,4
+7
+P
+X
+X
+13:21
+X
+X
+R
+X
+ 0
+03/07
+120500453
+30/06/23 11:03
+002:18
+000:00
+002:16
+N
+>>
+    172.274
+UNILEVER - C-Rot Ad CP Tresemme Anti Frizz 200ml
+1.220519/1
+       2.604,670
+M
+4F/1S/1FR
+MIL
+GF678A
+112
+Rep.
+      70,0
+7
+P
+X
+X
+19:16
+X
+X
+R
+X
+ 0
+14/07
+120126335
+30/06/23 15:37
+003:39
+000:00
+000:57
+N
+>>
+2 x 8
+    171.200
+BOTICARIO - C-Rot Ad Vult Sab Liq Glicer Conforto 200ml 95x45
+1.219698/27
+       5.186,182
+M
+7F
+MIL
+GF989
+136
+Rep.
+      90,0
+5
+P
+OK
+OK
+22:53
+T
+X
+R
+OK
+ 0
+31/07
+120143099
+30/06/23 20:14
+002:39
+000:00
+002:35
+N
+>>
+1 x 9
+    171.199
+BOTICARIO - Rot Ad Vult Sab Liqui Glicer Conforto 200ml 95x45
+1.219698/27
+       5.752,083
+M
+7F
+MIL
+GF989
+136
+Rep.
+      90,0
+7
+P
+OK
+OK
+22:53
+T
+X
+R
+OK
+ 0
+31/07
+120143098
+30/06/23 20:14
+002:39
+000:00
+002:52
+N
+>>
+1 x 9
+    171.198
+BOTICARIO - C-Rot Ad Vult Loc Hid Intens Glicerina 200ml 95x45
+1.219698/25
+      11.097,072
+M
+7F
+MIL
+GF989
+136
+Rep.
+     200,0
+5
+P
+OK
+OK
+07:28
+T
+X
+R
+OK
+ 0
+31/07
+120143097
+03/07/23 06:34
+000:54
+000:00
+005:32
+N
+>>
+1 x 9
+    171.197
+BOTICARIO - Rot Ad Vult Loc Hid Intensi Glicerina 200ml 95x45
+1.219698/25
+      11.926,852
+M
+7F
+MIL
+GF989
+136
+Rep.
+     200,0
+7
+P
+OK
+OK
+07:28
+T
+X
+R
+OK
+ 0
+31/07
+120143096
+03/07/23 06:34
+000:54
+000:00
+005:57
+N
+>>
+1 x 9
+     309.548,848
+TOTAL DO RECURSO:
+          7.004,00
+         20
+409
+Total Saida Alm.:
+       0,000
+      95.144,9
+M2
+              0,00
+          1.749,00
+MPOP800.GER - PCP/Ordens de Produção/Serviço - 21/06/2023 - 22:33
+Página:
+   2
+confidencial123

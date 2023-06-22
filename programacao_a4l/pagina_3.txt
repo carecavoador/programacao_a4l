@@ -1,0 +1,1161 @@
+LATAM - PROGRAMAÇÃO POR CENTRO DE RECURSO
+21/06/2023
+Período:
+Geração:
+Rel. Prod.
+OP's
+Descrição de Produto
+Apr.
+Saí.
+Cód. Sap
+Fornec.
+419
+RECURSO:
+Drent VSOP
+Drent
+Qtd.Prev.
+Faca
+Cilin.
+Prv.Ini.
+Acerto
+Formato
+Setup
+Sit.
+PCP2
+Hot-S
+Qtd Prev.
+Entrega
+Alm.
+Work Flow
+Pré
+Cli
+Col
+Des
+Cart
+N
+Roto
+Oper.
+Tempos Prv.
+( M )
+( MIL )
+Bula
+Mont.
+    172.298
+IMEK - Rot Termoenc Imek Amostra Fispal
+1.220503/1
+       5.876,800
+M
+5O/1F
+MIL
+762
+Nov.
+      16,0
+7
+OK
+X
+X
+09:34
+X
+PRE
+R
+X
+ 0
+23/06
+120308044
+21/06/23 09:29
+000:00
+000:00
+000:53
+N
+>>
+    170.816
+COLGATE - Rótulo Termoencolhível Lacre Plax 250 500 1000ml
+1.219469/4
+       4.999,996
+M
+2O/2F
+MIL
+550
+Rep.
+     181,8
+3
+P
+OK
+OK
+12:55
+OK
+X
+R
+OK
+ 0
+19/06
+120303926
+21/06/23 10:56
+001:59
+000:00
+000:45
+N
+>>
+    171.204
+COLGATE - Rótulo Termoencolhível Lacre Plax 250 500 1000ml
+1.219702/3
+       4.999,996
+M
+2O/2F
+MIL
+550
+Rep.
+     181,8
+3
+P
+OK
+OK
+14:11
+OK
+X
+R
+CA
+ 0
+24/06
+120303926
+21/06/23 14:06
+000:05
+000:00
+000:45
+N
+>>
+    171.980
+COLGATE - Rótulo Termoencolhível Lacre Plax 250 500 1000ml
+1.220163/2
+       4.999,996
+M
+2O/2F
+MIL
+550
+Rep.
+     181,8
+3
+P
+OK
+OK
+06:08
+OK
+X
+R
+CA
+ 0
+08/07
+120303926
+22/06/23 06:03
+000:05
+000:00
+000:45
+N
+>>
+    171.587
+COLGATE - Rótulo Termoencolhível Lacre Plax 250 500 1000ml
+1.219968/3
+       4.999,996
+M
+2O/2F
+MIL
+550
+Rep.
+     181,8
+3
+P
+OK
+E
+07:23
+OK
+X
+R
+CA
+ 0
+31/07
+120303926
+22/06/23 07:18
+000:05
+000:00
+000:45
+N
+>>
+    172.131
+COLGATE - Rótulo Termoencolhível Lacre Plax 250 500 1000ml
+1.220271/3
+       4.999,996
+M
+2O/2F
+MIL
+550
+Rep.
+     181,8
+3
+P
+OK
+OK
+08:38
+X
+X
+R
+CA
+ 0
+13/07
+120303926
+22/06/23 08:33
+000:05
+000:00
+000:45
+N
+>>
+    170.817
+COLGATE - Rotulo Termo Lacre Plax T.12 Charcoal 250,500,1000
+1.219469/5
+       4.999,996
+M
+2O/2F
+MIL
+550
+Rep.
+     181,8
+3
+P
+OK
+OK
+10:41
+OK
+X
+R
+CA
+ 0
+19/06
+120304234
+22/06/23 09:48
+000:53
+000:00
+000:45
+N
+>>
+    171.979
+COLGATE - Rót Termoenc Lacre Plax Antisséptico Latam CPC
+1.220163/1
+      10.999,990
+M
+2O/2F
+MIL
+550
+Rep.
+     454,5
+3
+P
+OK
+OK
+12:44
+OK
+X
+R
+OK
+ 0
+08/07
+120303498
+22/06/23 11:51
+000:53
+000:00
+001:39
+N
+>>
+    172.130
+COLGATE - Rót Termoenc Lacre Plax Antisséptico Latam CPC
+1.220271/2
+       8.999,992
+M
+2O/2F
+MIL
+550
+Rep.
+     363,6
+3
+P
+OK
+OK
+06:05
+X
+X
+R
+OK
+ 0
+13/07
+120303498
+23/06/23 06:00
+000:05
+000:00
+001:21
+N
+>>
+    172.129
+COLGATE - Rót Termoenc Lacre Plax Clean Mint 250,500,1000
+1.220271/1
+       4.999,996
+M
+2F/2O
+MIL
+550
+Rep.
+     181,8
+3
+P
+OK
+OK
+09:04
+X
+X
+R
+OK
+ 0
+13/07
+120303475
+23/06/23 08:11
+000:53
+000:00
+000:45
+N
+>>
+      60.876,754
+TOTAL DO RECURSO:
+            548,00
+         10
+419
+Total Saida Alm.:
+       0,000
+      27.338,0
+M2
+              0,00
+            303,00
+425
+RECURSO:
+Nilpeter MO 3300-M1066
+NilpeterMO
+Qtd.Prev.
+Faca
+Cilin.
+Prv.Ini.
+Acerto
+Formato
+Setup
+Sit.
+PCP2
+Hot-S
+Qtd Prev.
+Entrega
+Alm.
+Work Flow
+Pré
+Cli
+Col
+Des
+Cart
+N
+Roto
+Oper.
+Tempos Prv.
+( M )
+( MIL )
+Bula
+Mont.
+    172.111
+NATURA - Rot Ad Lumina Máscar Cabelos Cacheados 250ml Latam
+1.220240/1
+       5.097,040
+M
+3O/3F/1H/2S
+MIL
+NO2674A
+23
+Rep.
+Nº336
+      40,0
+5
+P
+OK
+E
+09:33
+OK
+X
+R
+OK
+ 0
+03/07
+120129031
+23/06/23 09:28
+003:12
+000:00
+000:39
+S
+>>
+4 x 2
+       5.097,040
+TOTAL DO RECURSO:
+             39,00
+          1
+425
+Total Saida Alm.:
+       0,000
+       1.376,2
+M2
+              0,00
+            192,00
+430
+RECURSO:
+HP WS 6000 INDIGO
+HP Indigo
+Qtd.Prev.
+Faca
+Cilin.
+Prv.Ini.
+Acerto
+Formato
+Setup
+Sit.
+PCP2
+Hot-S
+Qtd Prev.
+Entrega
+Alm.
+Work Flow
+Pré
+Cli
+Col
+Des
+Cart
+N
+Roto
+Oper.
+Tempos Prv.
+( M )
+( MIL )
+Bula
+Mont.
+    172.077
+UNILEVER - Contra-Rótulo Adesivo OMO 1L Digital 116,8x72,1 Br
+1.219922/1
+         181,344
+M
+6O/2FR
+MIL
+ABG1454
+25,5
+Amo.
+       1,0
+5
+OK
+OK
+E
+09:03
+X
+FIN
+R
+OK
+ 0
+01/06
+129005262
+20/06/23 09:03
+000:00
+000:00
+000:08
+N
+>>
+1 x 4
+    172.076
+UNILEVER - Rótulo Adesivo OMO 1L Digital 116,8x72,1 Branco
+1.219922/3
+         181,344
+M
+6O/2FR
+MIL
+ABG1454
+25,5
+Amo.
+       1,0
+5
+OK
+OK
+E
+09:16
+X
+FIN
+R
+OK
+ 0
+01/06
+129005261
+20/06/23 09:16
+000:00
+000:00
+000:08
+N
+>>
+1 x 4
+    171.997
+AVON - Rot Ad Avon Care Aveia e Ext Baunilha 200ml 100x46
+1.219990/1
+       1.008,707
+M
+6O/2FR
+MIL
+ABG1341
+25,5
+Nov.
+      50,0
+7
+P
+OK
+OK
+06:57
+X
+FIN
+R
+OK
+ 0
+04/07
+120143507
+21/06/23 06:57
+000:00
+000:00
+001:03
+N
+>>
+3 x 5
+    172.230
+AVON - C/Rot Ad Avon Care Frutas Vermelhas 200ml 46x100mm
+1.220429/14
+         984,259
+M
+1O/2FR
+MIL
+ABG1341
+25,5
+Rep.
+      50,0
+7
+P
+OK
+OK
+09:38
+X
+X
+R
+CA
+ 0
+21/07
+120131223
+21/06/23 09:38
+000:00
+000:00
+001:01
+N
+>>
+3 x 5
+    171.968
+AVON - C/Rot Ad Avon Care Macadâmia Loção 200ml 100x46mm
+1.220151/5
+       1.028,265
+M
+1O/2FR
+MIL
+ABG1341
+25,5
+Rep.
+      52,0
+7
+P
+OK
+X
+10:57
+A
+X
+R
+OK
+ 0
+07/07
+120130460
+21/06/23 10:57
+000:00
+000:00
+001:04
+N
+>>
+3 x 5
+    172.132
+FARMATIVA - Rot Ad Lola Rapunzel Tônico 250g 96x55mm
+1.220284/1
+       3.295,280
+M
+5O/2FR
+MIL
+ABG1275
+25,5
+Rep.
+      98,5
+5
+P
+OK
+OK
+18:26
+A
+X
+R
+OK
+ 0
+17/07
+120142910
+21/06/23 18:26
+000:00
+000:00
+002:19
+N
+>>
+2 x 6
+    172.133
+FARMATIVA - C-Rot Ad Lola Rapunzel Tônico 250g 90x55mm
+1.220284/2
+       2.261,333
+M
+4O/2FR
+MIL
+ABG1276
+25,5
+Rep.
+     100,0
+7
+P
+OK
+OK
+22:02
+X
+X
+R
+OK
+ 0
+17/07
+120142911
+21/06/23 22:02
+000:00
+000:00
+002:21
+N
+>>
+3 x 6
+    171.858
+3 RIOS - Rot Ad Hocus Pocus Catatonia 375ml 70x180mm
+1.219727/1
+         249,720
+M
+4O/2FR/1S
+MIL
+ABG1159
+25,5
+Nov.
+       1,5
+5
+OK
+OK
+E
+07:02
+T
+FIN
+R
+OK
+ 0
+23/06
+120143339
+22/06/23 07:02
+000:00
+000:00
+000:02
+N
+>>
+2 x 1
+    171.857
+3 RIOS - Rot Ad Hocus Pocus Mordamir Barley 375ml 70x180mm
+1.219727/1
+         249,720
+M
+4O/2FR/1S
+MIL
+ABG1159
+25,5
+Nov.
+       1,5
+5
+OK
+OK
+E
+07:02
+T
+FIN
+R
+OK
+ 0
+23/06
+120143338
+22/06/23 07:02
+000:00
+000:00
+000:02
+N
+>>
+2 x 1
+    171.814
+PETRY - Rot Ad Hiperpan Sabor Goiaba 1,01kg
+1.219776/1
+         136,040
+M
+4O/2FR
+MIL
+ABG1312
+25,5
+Nov.
+       1,0
+3
+OK
+OK
+OK
+07:15
+X
+FIN
+R
+OK
+ 0
+29/06
+120143357
+22/06/23 07:15
+000:00
+000:00
+000:08
+N
+>>
+4 x 2
+    171.813
+PETRY - Rot Ad Hiperpan Sabor Morango 1,01kg
+1.219776/2
+         136,040
+M
+4O/2FR
+MIL
+ABG1312
+25,5
+Nov.
+       1,0
+3
+OK
+OK
+OK
+07:27
+X
+FIN
+R
+CA
+ 0
+29/06
+120143356
+22/06/23 07:27
+000:00
+000:00
+000:08
+N
+>>
+4 x 2
+    171.862
+PETRY - Rot Ad Petry Recheio de Maça com Canela 1,01kg
+1.219959/2
+         136,040
+M
+4O/2FR
+MIL
+ABG1312
+25,5
+Nov.
+       1,0
+3
+OK
+OK
+OK
+07:40
+X
+FIN
+R
+OK
+ 0
+30/06
+120143452
+22/06/23 07:40
+000:00
+000:00
+000:08
+N
+>>
+4 x 2
+    171.854
+PETRY - Rot Ad Da Serra Doce Cremoso Sabor Abóbora 1,01kg
+1.219958/1
+         277,440
+M
+4O/1F/1FR
+MIL
+ABG1369
+25,5
+Alt.
+       6,0
+7
+OK
+OK
+E
+08:08
+X
+X
+R
+OK
+ 0
+30/06
+120142112
+22/06/23 08:08
+000:00
+000:00
+000:17
+N
+>>
+4 x 2
+    171.861
+PETRY - Rot Ad Da Serra Doce Cremoso Sabor Goiaba 4,5kg
+1.219959/1
+         156,480
+M
+4O/1F/1FR
+MIL
+ABG1369
+25,5
+Nov.
+       2,0
+7
+OK
+OK
+E
+08:32
+X
+FIN
+R
+OK
+ 0
+30/06
+120143451
+22/06/23 08:32
+000:00
+000:00
+000:09
+N
+>>
+4 x 2
+    171.996
+AVON - Rot Ad Avon Absolute By Exclusive 15x15mm
+1.219984/1
+         153,750
+M
+1O/2FR
+MIL
+ABG1053
+25,5
+Nov.
+      40,0
+7
+OK
+OK
+E
+09:31
+X
+FIN
+R
+OK
+ 0
+30/06
+120131117
+22/06/23 09:31
+000:00
+000:00
+000:09
+N
+>>
+14 x 12
+    171.947
+GRANADO - Rot Ad Fundo Colônias 300ml 30x15mm
+1.220131/3
+         157,637
+M
+4O/2FR
+MIL
+ABG1052
+25,5
+Rep.
+      15,0
+7
+OK
+OK
+X
+10:06
+X
+X
+R
+OK
+ 0
+10/07
+120143012
+22/06/23 10:06
+000:00
+000:00
+000:09
+N
+>>
+9 x 10
+    171.950
+GRANADO - Rot Ad Fundo EDTs 25ml 30x15mm
+1.220131/6
+         116,546
+M
+4O/2FR
+MIL
+ABG1052
+25,5
+Rep.
+       5,0
+7
+OK
+OK
+X
+10:20
+X
+X
+R
+OK
+ 0
+05/07
+120142775
+22/06/23 10:20
+000:00
+000:00
+000:07
+N
+>>
+9 x 10
+    171.946
+CASA GRANADO - Rótulo adesivo fundo colônias 260ml 30x15mm
+1.220131/2
+         128,873
+M
+2O/2FR
+MIL
+ABG1052
+25,5
+Rep.
+       8,0
+7
+OK
+OK
+OK
+10:31
+X
+X
+R
+OK
+ 0
+19/07
+120130456
+22/06/23 10:31
+000:00
+000:00
+000:08
+N
+>>
+9 x 10
+    171.945
+CASA GRANADO - Rot Ad Fundo Perfume 100ml 30x15mm
+1.220131/1
+         137,092
+M
+1O/2FR
+MIL
+ABG1052
+25,5
+Rep.
+      10,0
+7
+OK
+OK
+X
+10:43
+X
+X
+R
+OK
+ 0
+07/08
+120132154
+22/06/23 10:43
+000:00
+000:00
+000:08
+N
+>>
+9 x 10
+    171.948
+CASA GRANADO - Rot Ad Fundo Colônias 230ml 30x15mm
+1.220131/4
+         155,986
+M
+1O/2FR
+MIL
+ABG1052
+25,5
+Rep.
+      15,0
+7
+OK
+OK
+X
+10:55
+X
+X
+R
+OK
+ 0
+07/08
+120128535
+22/06/23 10:55
+000:00
+000:00
+000:09
+N
+>>
+9 x 10
+    172.062
+SAVOY - Rot Ad Wella Invigo Collor 50ml S2001825
+1.220225/3
+         649,000
+M
+7O/2F/1FR
+MIL
+ABG757
+19
+Rep.
+      12,5
+5
+P
+OK
+E
+11:17
+X
+X
+R
+CA
+ 0
+11/07
+120129116
+22/06/23 11:17
+000:00
+000:00
+000:40
+N
+>>
+4 x 1
+    172.061
+SAVOY - Rot Ad Nioxin Hair 1000ml S3001948
+1.220225/2
+          97,814
+M
+5O/2FR
+MIL
+ABG1433
+25,35
+Rep.
+       0,3
+5
+OK
+OK
+OK
+12:25
+X
+X
+R
+CA
+ 0
+11/07
+120142953
+22/06/23 12:25
+000:00
+000:00
+000:06
+N
+>>
+7 x 6
+    172.064
+SAVOY - Rot Ad SP Luxe Cond S3001821
+1.220225/5
+         130,138
+M
+4O/2FR
+MIL
+ABG1439
+25,5
+Rep.
+       2,3
+7
+OK
+OK
+OK
+12:38
+X
+X
+R
+CA
+ 0
+11/07
+120142952
+22/06/23 12:38
+000:00
+000:00
+000:08
+N
+>>
+5 x 5
+    171.864
+SAVOY - Rot Ad Hugo Boss Just Iced S1.004496 25x60mm
+1.219987/1
+         129,320
+M
+1O/1F/1FR
+MIL
+ABG877
+19
+Nov.
+       4,3
+5
+P
+OK
+E
+13:31
+X
+X
+R
+OK
+ 0
+30/06
+120141051
+22/06/23 13:31
+000:00
+000:00
+000:08
+N
+>>
+4 x 5
+MPOP800.GER - PCP/Ordens de Produção/Serviço - 21/06/2023 - 22:33
+Página:
+   3
+confidencial123
