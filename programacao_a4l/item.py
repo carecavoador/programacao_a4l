@@ -31,31 +31,31 @@ class Item:
     hot_s: str = field(default=None)
     roto: str = field(default=None)
 
-    def __str__(self) -> str:
-        return f'{self.apr_rel_prod:11} | '\
+    def __repr__(self) -> str:
+        return f'{self.apr_rel_prod} | '\
                f'{self.descricao_de_produto[:20]} | '\
                f'{self.fornec} | '\
                f'{self.cod_sap} | '\
                f'{self.sai} | '\
                f'{self.ops} | '\
-               f'{self.formato:6} | '\
+               f'{self.formato} | '\
                f'{self.prv_ini} | '\
                f'{self.setup} | '\
                f'{self.acerto} | '\
                f'{self.oper} | '\
-               f'{self.qtd_prev_m:10} | '\
-               f'{self.qtf_prev_mil:5} | '\
+               f'{self.qtd_prev_m} | '\
+               f'{self.qtf_prev_mil} | '\
                f'{self.bula} | '\
                f'{self.faca} | '\
                f'{self.mont} | '\
-               f'{self.cilin:3} | '\
+               f'{self.cilin} | '\
                f'{self.hot_s} | '\
                f'{self.roto} | '\
                f'{self.sit} | '\
                f'{self.entrega} | '\
-               f'{self.col:2} | '\
-               f'{self.alm:2} | '\
-               f'{self.des:2} | '\
-               f'{self.pre:2} | '\
-               f'{self.cart:2} | '\
-               f'{self.cli:2}'
+               f'{self.col} | '\
+               f'{self.alm} | '\
+               f'{self.des} | '\
+               f'{self.pre} | '\
+               f'{self.cart} | '\
+               f'{self.cli}'
